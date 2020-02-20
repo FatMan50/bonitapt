@@ -639,6 +639,12 @@ padding-top: 2px;
   font-size: 1.2rem;
 }
 
+.psalm {
+  display: block;
+  font-style: italic;
+  font-weight: 300;
+  padding-bottom: 10px;
+}
 
 
 .dana {
