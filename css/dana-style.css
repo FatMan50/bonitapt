@@ -259,7 +259,9 @@ nav a:hover {
 }
 
 .box-line {
-  border-right: 0px solid #001da7
+  border-right: 0px solid #001da7;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .fancy-box p {
