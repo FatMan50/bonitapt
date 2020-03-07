@@ -320,7 +320,31 @@ nav a:hover {
   }
 }
 
+.add-info {
+  list-style-type: none;
+margin: 0;
+padding: 0;
 
+}
+
+.add-info li {
+  text-align: center;
+  padding: 7px;
+
+}
+
+.add-info li a {
+  text-decoration: none;
+  color: #4d4d4d;
+  font-weight: 300;
+  font-size: 1.2rem;
+}
+
+.add-info li a:hover {
+  text-decoration: underline;
+  color: #001da7;
+  font-weight: 800;
+}
 
 
 
