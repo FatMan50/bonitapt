@@ -72,7 +72,9 @@ ul {
   font-family: "Times New Roman", Times, serif !important;
 }
 
-
+.c-hidden {
+  display: none;
+}
 
 
 /**************** NAV Styles Start Here  *************/
